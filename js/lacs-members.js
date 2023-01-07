@@ -79,7 +79,7 @@ const members = [
    college: "Oberlin College", collegeLink: null},
 
   {name: "Richard Wicentowski", img: null, nameLink: null,
-   college: "Swarthmore College", collegeLink: null},
+   college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
   {name: "Rebecca Wright", img: null, nameLink: null,
    college: "Barnard College", collegeLink: null},
@@ -111,6 +111,10 @@ const emeriti = [
 
   {img: "static/rhys_jones.jpg", nameLink: "http://www.seas.gwu.edu/~rhyspj", name: "Rhys Price Jones",
   collegeLink: "http://www.cs.gwu.edu/", college: "George Washington University"},
+
+  {name: "Charles Kelemen", nameLink: "https://www.cs.swarthmore.edu/~cfk/",
+   img: "static/kelemen.jpeg",
+   college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
   {img: "static/bob_noonan.jpg", nameLink: null, name: "Bob Noonan",
   collegeLink: null, college: "William and Mary" },
