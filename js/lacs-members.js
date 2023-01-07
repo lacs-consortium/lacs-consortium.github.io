@@ -94,11 +94,17 @@ const emeriti = [
   {img: "static/kim_bruce.jpg", nameLink: "http://www.cs.pomona.edu/~kim", name: "Kim Bruce",
   collegeLink: "http://www.pomona.edu/", college: "Pomona College"},
 
+  {img: "static/bob_cupper.jpg", nameLink: null, name: "Bob Cupper",
+  collegeLink: null, college: "Allegheny College"},
+
   {img: "static/andrea_danyluk.jpg", nameLink: "http://www.cs.williams.edu/~andrea/", name: "Andrea Danyluk",
   collegeLink: "http://www.williams.edu/", college: "Williams College"},
 
   {img: "static/scot_drysdale.jpg", nameLink: "http://www.cs.dartmouth.edu/~scot/", name: "Scot Drysdale",
   collegeLink: "http://www.dartmouth.edu/", college: "Dartmouth College"},
+
+  {img: null, nameLink: null, name: "Norm Gibbs",
+  collegeLink: null, college: "Bowdoin College" },
 
   {img: "static/max_hailperin.webp", nameLink: "http://www.gac.edu/~max", name: "Max Hailperin",
   collegeLink: "http://www.gac.edu/", college: "Gustavus Adolphus College"},
@@ -109,17 +115,11 @@ const emeriti = [
   {img: "static/bob_noonan.jpg", nameLink: null, name: "Bob Noonan",
   collegeLink: null, college: "William and Mary" },
 
-  {img: "static/bob_cupper.jpg", nameLink: null, name: "Bob Cupper",
-  collegeLink: null, college: "Allegheny College"},
-
   {img: null, nameLink: null, name: "Jeff Parker",
   collegeLink: null, college: "Amherst College" },
 
   {img: "static/allen_tucker.jpeg", nameLink: "https://www.bowdoin.edu/profiles/faculty/allen/index.html", name: "Allen Tucker",
   collegeLink: "https://www.bowdoin.edu/index.html", college: "Bowdoin College"},
-
-  {img: null, nameLink: null, name: "Norm Gibbs",
-  collegeLink: null, college: "Bowdoin College" },
 
   {img: "static/henry_walker.gif", nameLink: "http://www.cs.grinnell.edu/~walker/", name: "Henry M. Walker",
   collegeLink: "https://www.grinnell.edu/", college: "Grinnell College" },
