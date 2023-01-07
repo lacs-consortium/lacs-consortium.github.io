@@ -6,14 +6,29 @@ const members = [
   {img: "static/Joel_Adams.jpg", nameLink: "http://www.calvin.edu/~adams", name: "Joel Adams",
   collegeLink: "http://www.calvin.edu/", college: "Calvin College"},
 
+  {name: "Jeannie Albrecht", nameLink: null, img: null,
+   college: "Williams College", collegeLink: null},
+
   {img:null, nameLink: "http://cs.union.edu/~barrv/", name: "Valerie Barr",
   collegeLink: "https://www.mtholyoke.edu/", college: "Mount Holyoke College"},
 
   {img: "static/alyce_brady.jpg", nameLink: "http://max.cs.kzoo.edu/~abrady/", name: "Alyce Brady",
   collegeLink: "http://www.kzoo.edu/", college: "Kalamazoo College"},
 
+  {name: "Grant Braught", nameLink: null, img: null,
+   college: "Dickinson College", collegeLink: null},
+
   {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
   collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
+
+  {name: "America Chambers", nameLink: null, img: null, 
+   college: "University of Puget Sound", collegeLink: null},
+
+  {name: "Yi Chen", nameLink: null, img: null, 
+   college: "Pomona College", collegeLink: "http://www.pomona.edu/"},
+
+  {name: "Andrew Danner", nameLink: null, img: null, 
+   college: "Swarthmore College", collegeLink: null},
 
   {img: "static/janet_davis.jpg", nameLink: "http://cs.whitman.edu/~davisj/", name: "Janet Davis",
   collegeLink: "http://www.whitman.edu/", college: "Whitman College"},
@@ -27,17 +42,47 @@ const members = [
   {img: "static/andrea_lawrence.jpg", nameLink: "https://www.spelman.edu/academics/majors-and-programs/computer-and-information-sciences/faculty/andrea-lawrence", name: "Andrea Lawrence",
   collegeLink: "http://www.spelman.edu/", college: "Spelman College"},
 
+  {name: "David Liben-Nowell", img: null, nameLink: null,
+  college: "Carleton College", collegeLink: null},
+
+  {name: "Bruce Maxwell", img: null, nameLink: null,
+  college: "Colby College", collegeLink: null},
+
   {img: "static/lisa_meeden.jpg", nameLink: "https://www.cs.swarthmore.edu/~meeden/", name: "Lisa Meeden",
   collegeLink: "http://www.swarthmore.edu/", college: "Swarthmore College"},
 
   {img: "static/takis_metaxas.jpeg", nameLink: "http://cs.wellesley.edu/~pmetaxas", name: "Takis Metaxas",
   collegeLink: "http://www.wellesley.edu/", college: "Wellesley College" },
 
+  {name: "Darakhshan Mir", nameLink: null, img: null,
+   college: "Bucknell University", collegeLink: null},
+
+  {name: "Peter-Michael Osera", nameLink: null, img: null,
+   college: "Grinnell College", collegeLink: "https://www.grinnell.edu/"},
+
+  {name: "Raghu Ramanujan", nameLink: null, img: null,
+   college: "Davidson College", collegeLink: null},
+
   {img: "static/david_reed.jpg", nameLink: "http://www.creighton.edu/~davereed", name: "David Reed",
   collegeLink: "http://www.creighton.edu/", college: "Creighton University"},
 
   {img: "static/brad_richards.jpg", nameLink: "http://www.cs.ups.edu/~brichards", name: "Brad Richards",
   collegeLink: "http://www.ups.edu/", college: "University of Puget Sound"},
+
+  {name: "Paul Ruvolo", img: null, nameLink: null,
+   college: "Olin College", collegeLink: null},
+
+  {name: "Karl Schmitt", img: null, nameLink: null,
+   college: "Trinity Christian College", collegeLink: null},
+
+  {name: "Cynthia Taylor", img: null, nameLink: null,
+   college: "Oberlin College", collegeLink: null},
+
+  {name: "Richard Wicentowski", img: null, nameLink: null,
+   college: "Swarthmore College", collegeLink: null},
+
+  {name: "Rebecca Wright", img: null, nameLink: null,
+   college: "Barnard College", collegeLink: null},
 
 ]
 
