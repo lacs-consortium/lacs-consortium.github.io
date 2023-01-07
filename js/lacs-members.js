@@ -81,8 +81,9 @@ const members = [
   {name: "Richard Wicentowski", img: null, nameLink: null,
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
-  {name: "Rebecca Wright", img: null, nameLink: null,
-   college: "Barnard College", collegeLink: null},
+  {name: "Rebecca Wright", img: "static/rebecca_wright.jpeg", 
+   nameLink: "https://www.cs.columbia.edu/~rwright/",
+   college: "Barnard College", collegeLink: "https://barnard.edu/"},
 
 ]
 
