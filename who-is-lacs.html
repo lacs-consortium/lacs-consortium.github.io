@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+  <title>LACS: Who is LACS?</title>
+</head>
+
+<body>
+
+  <div class="navbar"></div>
+
+  <div class="content">
+
+    <h1>WHO IS LACS?</h1>
+
+    <p>
+      The first two meetings of the LACS group in 1984 and 1985 not only produced
+      the Liberal Arts Model Curriculum, they also created a workable model for our
+      organization and meeting style, our group membership, and our working principles
+      that help determine what we do.
+    </p>
+
+    <p>
+      The LACS group meets once a year. Except for its 1984 and 1985 meetings, which
+      were supported by a grant from the Sloan Foundation, LACS operates with no budget.
+      To cover the cost of each annual meeting, a different member's home institution
+      agrees to host the meeting and provide food, lodging, and meeting space. The other members individually find funding for their
+      own travel to that meeting. Each meeting is a 1-1/2 day event, and its goals
+      and outcomes are more carefully described on the <a href='what-we-do.html'>What We Do</a> page.
+    </p>
+
+    <p>
+      In addition to our annual meeting, LACS usually schedules an informal session
+      at each year's ACM/SIGCSE Symposium. The major goal of that meeting is to set
+      the agenda for the upcoming summer meeting. All LACS members are working members,
+      in the sense that everyone contributes materially to the projects that are currently
+      on the table. The main reason that the group's size remains small is to ensure
+      our ability to work effectively on specific curricular projects that help
+      advance the principles and practice of liberal arts computer science education.
+      For more detailed information about these projects and their outcomes, see
+      the <a href='what-we-do.html'>What We Do</a> page.
+    </p>
+
+    <p>
+      Organizationally, LACS is a small group of individuals who work to improve computer
+      science education within the special setting of liberal arts institutions. Our
+      membership size remains at about 16-18 members so that we may maintain our work style.
+    </p>
+    <h3>CURRENT MEMBERS</h3>
+    <div class='memList' id='members'></div>
+    <h3>EMERITI</h3>
+    <div class='memList' id='emeriti'></div>
+
+  </div>
+  <!-- Load React. -->
+  <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+  <!-- add three <script> tags to the HTML page right before the closing </body> tag -->
+  <script src="https://unpkg.com/react@16/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js" crossorigin></script>
+  <script src="js/navbar.js"></script>
+  <script src="js/lacs-members.js"></script>
+</body>
+</html>

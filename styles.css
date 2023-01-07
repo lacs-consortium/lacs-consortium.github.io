@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+b {
+  font-weight: 800;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 4rem;
+  width: 100%;
+  border-bottom: 1px solid #5692ec;
+}
+
+a {
+  text-decoration: none;
+  color: #5692ec;
+  transition: color 0.3s;
+}
+
+a:hover {
+  color: #e91214;
+}
+
+.navbar a {
+  font-size: 1.2em;
+  flex-basis: auto;
+  text-decoration: none;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  text-align: center;
+}
+
+.navbar img{
+  margin: 0;
+  height: 3em;
+  width: auto;
+}
+
+.content{
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+h1 {
+  font-weight: 900;
+}
+
+h3 {
+  font-size: 1.4em;
+  text-align: center;
+  display: table;
+  white-space: nowrap;
+}
+
+h3::before, h3::after {
+  content: '';
+  background-image: url('static/download.png');
+  display: table-cell;
+  position: relative;
+  top: 50%;
+  width: 50%;
+  background-repeat: no-repeat;
+}
+
+h3::before {
+  background-position: right 1em top 50%;
+}
+
+h3::after {
+  background-position: left 1em top 50%;
+}
+
+.memList {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.memProfile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem;
+  width: 12rem;
+}
+
+.memProfile a {
+  margin-top: 0.1rem;
+  font-size: 1em;
+  text-align: center;
+}
+
+.memProfile p {
+  margin-top: 0.1rem;
+  margin-bottom: 0;
+  font-size: 1em;
+  text-align: center;
+}
+
+.memProfile .picCont{
+  border-radius: 50%;
+  height: 8rem;
+  width: 8rem;
+  margin-bottom: 0.5rem;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.memProfile .picCont > img{
+  width: 8rem;
+  height: auto;
+}
