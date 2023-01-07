@@ -6,9 +6,6 @@ const members = [
   {img: "static/Joel_Adams.jpg", nameLink: "http://www.calvin.edu/~adams", name: "Joel Adams",
   collegeLink: "http://www.calvin.edu/", college: "Calvin College"},
 
-  {img: "static/doug_baldwin.jpeg", nameLink: "https://www.geneseo.edu/math/baldwin", name: "Doug Baldwin",
-  collegeLink: "http://www.geneseo.edu/", college: "SUNY Geneseo"},
-
   {img:null, nameLink: "http://cs.union.edu/~barrv/", name: "Valerie Barr",
   collegeLink: "https://www.mtholyoke.edu/", college: "Mount Holyoke College"},
 
@@ -17,12 +14,6 @@ const members = [
 
   {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
   collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
-
-  {img: "static/kim_bruce.jpg", nameLink: "http://www.cs.pomona.edu/~kim", name: "Kim Bruce",
-  collegeLink: "http://www.pomona.edu/", college: "Pomona College"},
-
-  {img: "static/andrea_danyluk.jpg", nameLink: "http://www.cs.williams.edu/~andrea/", name: "Andrea Danyluk",
-  collegeLink: "http://www.williams.edu/", college: "Williams College"},
 
   {img: "static/janet_davis.jpg", nameLink: "http://cs.whitman.edu/~davisj/", name: "Janet Davis",
   collegeLink: "http://www.whitman.edu/", college: "Whitman College"},
@@ -48,11 +39,19 @@ const members = [
   {img: "static/brad_richards.jpg", nameLink: "http://www.cs.ups.edu/~brichards", name: "Brad Richards",
   collegeLink: "http://www.ups.edu/", college: "University of Puget Sound"},
 
-  {img: "static/henry_walker.gif", nameLink: "http://www.cs.grinnell.edu/~walker/", name: "Henry M. Walker",
-  collegeLink: "https://www.grinnell.edu/", college: "Grinnell College" },
 ]
 
 const emeriti = [
+
+  {img: "static/doug_baldwin.jpeg", nameLink: "https://www.geneseo.edu/math/baldwin", name: "Doug Baldwin",
+  collegeLink: "http://www.geneseo.edu/", college: "SUNY Geneseo"},
+
+  {img: "static/kim_bruce.jpg", nameLink: "http://www.cs.pomona.edu/~kim", name: "Kim Bruce",
+  collegeLink: "http://www.pomona.edu/", college: "Pomona College"},
+
+  {img: "static/andrea_danyluk.jpg", nameLink: "http://www.cs.williams.edu/~andrea/", name: "Andrea Danyluk",
+  collegeLink: "http://www.williams.edu/", college: "Williams College"},
+
   {img: "static/scot_drysdale.jpg", nameLink: "http://www.cs.dartmouth.edu/~scot/", name: "Scot Drysdale",
   collegeLink: "http://www.dartmouth.edu/", college: "Dartmouth College"},
 
@@ -76,6 +75,9 @@ const emeriti = [
 
   {img: null, nameLink: null, name: "Norm Gibbs",
   collegeLink: null, college: "Bowdoin College" },
+
+  {img: "static/henry_walker.gif", nameLink: "http://www.cs.grinnell.edu/~walker/", name: "Henry M. Walker",
+  collegeLink: "https://www.grinnell.edu/", college: "Grinnell College" },
 ]
 
 function MemProfile (props) {
