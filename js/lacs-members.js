@@ -27,9 +27,6 @@ const members = [
   {name: "Yi Chen", nameLink: null, img: null, 
    college: "Pomona College", collegeLink: "http://www.pomona.edu/"},
 
-  {name: "Andrew Danner", nameLink: null, img: null, 
-   college: "Swarthmore College", collegeLink: null},
-
   {img: "static/janet_davis.jpg", nameLink: "http://cs.whitman.edu/~davisj/", name: "Janet Davis",
   collegeLink: "http://www.whitman.edu/", college: "Whitman College"},
 
