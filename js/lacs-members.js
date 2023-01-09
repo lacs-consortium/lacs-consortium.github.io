@@ -72,8 +72,8 @@ const members = [
   {name: "Karl Schmitt", img: null, nameLink: null,
    college: "Trinity Christian College", collegeLink: null},
 
-  {name: "Cynthia Taylor", img: null, nameLink: null,
-   college: "Oberlin College", collegeLink: null},
+  {name: "Cynthia Taylor", img: null, nameLink: "http://www.cs.oberlin.edu/~ctaylor/",
+   college: "Oberlin College", collegeLink: "https://www.oberlin.edu/"},
 
   {name: "Richard Wicentowski", img: null, nameLink: null,
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
