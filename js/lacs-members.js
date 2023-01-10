@@ -9,8 +9,8 @@ const members = [
   {name: "Jeannie Albrecht", nameLink: null, img: null,
    college: "Williams College", collegeLink: null},
 
-  {img:null, nameLink: "http://cs.union.edu/~barrv/", name: "Valerie Barr",
-  collegeLink: "https://www.mtholyoke.edu/", college: "Mount Holyoke College"},
+  {img:null, nameLink: "https://vbarr4.github.io/", name: "Valerie Barr",
+  collegeLink: "https://www.bard.edu/", college: "Bard College"},
 
   {img: "static/alyce_brady.jpg", nameLink: "http://max.cs.kzoo.edu/~abrady/", name: "Alyce Brady",
   collegeLink: "http://www.kzoo.edu/", college: "Kalamazoo College"},
@@ -21,10 +21,10 @@ const members = [
   {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
   collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
 
-  {name: "America Chambers", nameLink: null, img: null, 
+  {name: "America Chambers", nameLink: null, img: null,
    college: "University of Puget Sound", collegeLink: null},
 
-  {name: "Yi Chen", nameLink: null, img: null, 
+  {name: "Yi Chen", nameLink: null, img: null,
    college: "Pomona College", collegeLink: "http://www.pomona.edu/"},
 
   {img: "static/janet_davis.jpg", nameLink: "http://cs.whitman.edu/~davisj/", name: "Janet Davis",
@@ -78,7 +78,7 @@ const members = [
   {name: "Richard Wicentowski", img: null, nameLink: null,
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
-  {name: "Rebecca Wright", img: "static/rebecca_wright.jpeg", 
+  {name: "Rebecca Wright", img: "static/rebecca_wright.jpeg",
    nameLink: "https://www.cs.columbia.edu/~rwright/",
    college: "Barnard College", collegeLink: "https://barnard.edu/"},
 
