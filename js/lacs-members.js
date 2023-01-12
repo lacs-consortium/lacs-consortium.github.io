@@ -39,8 +39,9 @@ const members = [
   {img: "static/andrea_lawrence.jpg", nameLink: "https://www.spelman.edu/academics/majors-and-programs/computer-and-information-sciences/faculty/andrea-lawrence", name: "Andrea Lawrence",
   collegeLink: "http://www.spelman.edu/", college: "Spelman College"},
 
-  {name: "David Liben-Nowell", img: null, nameLink: null,
-  college: "Carleton College", collegeLink: null},
+  {name: "David Liben-Nowell", img: "static/david_liben-nowell.jpeg", 
+  nameLink: "https://cs.carleton.edu/faculty/dln/",
+  college: "Carleton College", collegeLink: "https://www.carleton.edu"},
 
   {name: "Bruce Maxwell", img: null, nameLink: null,
   college: "Colby College", collegeLink: null},
