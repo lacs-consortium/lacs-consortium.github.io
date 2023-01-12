@@ -57,8 +57,9 @@ const members = [
   {name: "Peter-Michael Osera", nameLink: null, img: null,
    college: "Grinnell College", collegeLink: "https://www.grinnell.edu/"},
 
-  {name: "Raghu Ramanujan", nameLink: null, img: null,
-   college: "Davidson College", collegeLink: null},
+  {name: "Raghu Ramanujan", nameLink: "https://www.davidson.edu/people/raghu-ramanujan", 
+  img: "static/raghu_ramanujan.jpg", college: "Davidson College", 
+  collegeLink: "https://www.davidson.edu/"},
 
   {img: "static/david_reed.jpg", nameLink: "http://www.creighton.edu/~davereed", name: "David Reed",
   collegeLink: "http://www.creighton.edu/", college: "Creighton University"},
