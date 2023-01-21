@@ -15,8 +15,8 @@ const members = [
   {img: "static/alyce_brady.jpg", nameLink: "http://max.cs.kzoo.edu/~abrady/", name: "Alyce Brady",
   collegeLink: "http://www.kzoo.edu/", college: "Kalamazoo College"},
 
-  {name: "Grant Braught", nameLink: null, img: null,
-   college: "Dickinson College", collegeLink: null},
+  {name: "Grant Braught", nameLink: "https://www.dickinson.edu/site/custom_scripts/dc_faculty_profile_index.php?fac=braught", img: "static/grant_braught.jpg",
+   college: "Dickinson College", collegeLink: "https://www.dickinson.edu/"},
 
   {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
   collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
