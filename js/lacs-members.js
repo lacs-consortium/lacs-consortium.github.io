@@ -6,8 +6,9 @@ const members = [
   {img: "static/Joel_Adams.jpg", nameLink: "http://www.calvin.edu/~adams", name: "Joel Adams",
   collegeLink: "http://www.calvin.edu/", college: "Calvin College"},
 
-  {name: "Jeannie Albrecht", nameLink: null, img: null,
-   college: "Williams College", collegeLink: null},
+  {name: "Jeannie Albrecht", nameLink: "https://www.cs.williams.edu/~jeannie/", 
+   img: "static/jeannie_albrecht.jpeg",
+   college: "Williams College", collegeLink: "https://www.williams.edu/"},
 
   {img: "static/Valerie-Barr.jpg", nameLink: "https://vbarr4.github.io/", name: "Valerie Barr",
   collegeLink: "https://www.bard.edu/", college: "Bard College"},
