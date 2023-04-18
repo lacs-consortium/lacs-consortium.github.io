@@ -22,8 +22,9 @@ const members = [
   {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
   collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
 
-  {name: "America Chambers", nameLink: null, img: null,
-   college: "University of Puget Sound", collegeLink: null},
+  {name: "America Chambers", img: "static/America_Chambers.jpeg",
+  nameLink: "https://www.pugetsound.edu/directory/america-chambers",
+   college: "University of Puget Sound", collegeLink: "https://www.pugetsound.edu/"},
 
   {name: "Yi Chen", nameLink: "http://www.cs.pomona.edu/~tzuyi", img: "static/yi-chen.jpeg",
    college: "Pomona College", collegeLink: "http://www.pomona.edu/"},
