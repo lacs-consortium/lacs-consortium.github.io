@@ -129,10 +129,14 @@ const emeriti = [
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
   {img: "static/bob_noonan.jpg", nameLink: null, name: "Bob Noonan",
-  collegeLink: null, college: "William and Mary" },
+  collegeLink: null, college: "William and Mary College" },
 
   {img: null, nameLink: null, name: "Jeff Parker",
   collegeLink: null, college: "Amherst College" },
+
+  {name: "Ted Sjoerdsma", img: "static/Ted_Sjoerdsma.jpeg",
+  nameLink: null, college: "Washington and Lee University",
+  collegeLink: null}, 
 
   {img: "static/allen_tucker.jpeg", nameLink: "https://www.bowdoin.edu/profiles/faculty/allen/index.html", name: "Allen Tucker",
   collegeLink: "https://www.bowdoin.edu/index.html", college: "Bowdoin College"},
