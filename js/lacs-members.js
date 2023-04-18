@@ -92,6 +92,9 @@ const emeriti = [
   {img: "static/doug_baldwin.jpeg", nameLink: "https://www.geneseo.edu/math/baldwin", name: "Doug Baldwin",
   collegeLink: "http://www.geneseo.edu/", college: "SUNY Geneseo"},
 
+  {name: "Jim Bradley", nameLink: null, img: null,
+   collegeLink: null, college: "Nazareth & Calvin Colleges"}, 
+
   {img: "static/kim_bruce.jpg", nameLink: "http://www.cs.pomona.edu/~kim", name: "Kim Bruce",
   collegeLink: "http://www.pomona.edu/", college: "Pomona College"},
 
