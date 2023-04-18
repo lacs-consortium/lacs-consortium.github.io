@@ -44,8 +44,9 @@ const members = [
   nameLink: "https://cs.carleton.edu/faculty/dln/",
   college: "Carleton College", collegeLink: "https://www.carleton.edu"},
 
-  {name: "Bruce Maxwell", img: null, nameLink: null,
-  college: "Colby College", collegeLink: null},
+  {name: "Bruce Maxwell", img: "static/bruce_maxwell.jpeg", 
+  nameLink: "https://cs.colby.edu/maxwell/",
+  college: "Colby College", collegeLink: "https://www.colby.edu/"},
 
   {img: "static/lisa_meeden.jpg", nameLink: "https://www.cs.swarthmore.edu/~meeden/", name: "Lisa Meeden",
   collegeLink: "http://www.swarthmore.edu/", college: "Swarthmore College"},
