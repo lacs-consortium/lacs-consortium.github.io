@@ -59,7 +59,8 @@ const members = [
   nameLink: "https://www.bucknell.edu/fac-staff/darakhshan-mir",
    college: "Bucknell University", collegeLink: "https://www.bucknell.edu/"},
 
-  {name: "Peter-Michael Osera", nameLink: null, img: null,
+  {name: "Peter-Michael Osera", img: "static/pm_osera.jpeg",
+  nameLink: "https://osera.cs.grinnell.edu/",
    college: "Grinnell College", collegeLink: "https://www.grinnell.edu/"},
 
   {name: "Raghu Ramanujan", nameLink: "https://www.davidson.edu/people/raghu-ramanujan", 
