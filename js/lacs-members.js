@@ -73,11 +73,13 @@ const members = [
   {img: "static/brad_richards.jpg", nameLink: "http://www.cs.ups.edu/~brichards", name: "Brad Richards",
   collegeLink: "http://www.ups.edu/", college: "University of Puget Sound"},
 
-  {name: "Paul Ruvolo", img: null, nameLink: null,
-   college: "Olin College", collegeLink: null},
+  {name: "Paul Ruvolo", img: "static/Paul_Ruvolo.png", 
+  nameLink: "https://www.olin.edu/bios/paul-ruvolo",
+   college: "Olin College", collegeLink: "https://www.olin.edu"},
 
-  {name: "Karl Schmitt", img: null, nameLink: null,
-   college: "Trinity Christian College", collegeLink: null},
+  {name: "Karl Schmitt", img: "static/Karl_Schmitt.jpg", 
+   nameLink: "https://www.trnty.edu/faculty/karl-schmitt/",
+   college: "Trinity Christian College", collegeLink: "https://www.trnty.edu/"},
 
   {name: "Cynthia Taylor", img: "static/cbtaylor.jpg", nameLink: "http://www.cs.oberlin.edu/~ctaylor/",
    college: "Oberlin College", collegeLink: "https://www.oberlin.edu/"},
