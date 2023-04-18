@@ -24,7 +24,7 @@ const members = [
   {name: "America Chambers", nameLink: null, img: null,
    college: "University of Puget Sound", collegeLink: null},
 
-  {name: "Yi Chen", nameLink: null, img: null,
+  {name: "Yi Chen", nameLink: "http://www.cs.pomona.edu/~tzuyi", img: "static/yi-chen.jpeg",
    college: "Pomona College", collegeLink: "http://www.pomona.edu/"},
 
   {img: "static/janet_davis.jpg", nameLink: "http://cs.whitman.edu/~davisj/", name: "Janet Davis",
