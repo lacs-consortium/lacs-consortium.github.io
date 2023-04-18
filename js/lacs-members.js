@@ -78,7 +78,8 @@ const members = [
   {name: "Cynthia Taylor", img: "static/cbtaylor.jpg", nameLink: "http://www.cs.oberlin.edu/~ctaylor/",
    college: "Oberlin College", collegeLink: "https://www.oberlin.edu/"},
 
-  {name: "Richard Wicentowski", img: null, nameLink: null,
+  {name: "Richard Wicentowski", img: "static/Richard_Wicentowski.jpeg", 
+   nameLink: "https://www.cs.swarthmore.edu/~richardw/",
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
   {name: "Rebecca Wright", img: "static/rebecca_wright.jpeg",
