@@ -55,8 +55,9 @@ const members = [
   {img: "static/takis_metaxas.jpeg", nameLink: "http://cs.wellesley.edu/~pmetaxas", name: "Takis Metaxas",
   collegeLink: "http://www.wellesley.edu/", college: "Wellesley College" },
 
-  {name: "Darakhshan Mir", nameLink: null, img: null,
-   college: "Bucknell University", collegeLink: null},
+  {name: "Darakhshan Mir", img: "static/darakhshan_mir.webp",
+  nameLink: "https://www.bucknell.edu/fac-staff/darakhshan-mir",
+   college: "Bucknell University", collegeLink: "https://www.bucknell.edu/"},
 
   {name: "Peter-Michael Osera", nameLink: null, img: null,
    college: "Grinnell College", collegeLink: "https://www.grinnell.edu/"},
