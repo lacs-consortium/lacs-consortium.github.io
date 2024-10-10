@@ -50,9 +50,6 @@ const members = [
   college: "Northeastern University", 
   collegeLink: "https://www.northeastern.edu/"},
 
-  {img: "static/lisa_meeden.jpg", nameLink: "https://www.cs.swarthmore.edu/~meeden/", name: "Lisa Meeden",
-  collegeLink: "http://www.swarthmore.edu/", college: "Swarthmore College"},
-
   {img: "static/takis_metaxas.jpeg", nameLink: "http://cs.wellesley.edu/~pmetaxas", name: "Takis Metaxas",
   collegeLink: "http://www.wellesley.edu/", college: "Wellesley College" },
 
@@ -70,9 +67,6 @@ const members = [
 
   {img: "static/david_reed.jpg", nameLink: "http://www.creighton.edu/~davereed", name: "David Reed",
   collegeLink: "http://www.creighton.edu/", college: "Creighton University"},
-
-  {img: "static/brad_richards.jpg", nameLink: "http://www.cs.ups.edu/~brichards", name: "Brad Richards",
-  collegeLink: "http://www.ups.edu/", college: "University of Puget Sound"},
 
   {name: "Paul Ruvolo", img: "static/Paul_Ruvolo.png", 
   nameLink: "https://www.olin.edu/bios/paul-ruvolo",
@@ -128,11 +122,16 @@ const emeriti = [
    img: "static/kelemen.jpeg",
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
 
+  {img: "static/lisa_meeden.jpg", nameLink: "https://www.cs.swarthmore.edu/~meeden/", name: "Lisa Meeden", collegeLink: "http://www.swarthmore.edu/", college: "Swarthmore College"},
+
   {img: "static/bob_noonan.jpg", nameLink: null, name: "Bob Noonan",
   collegeLink: null, college: "William and Mary College" },
 
   {img: null, nameLink: null, name: "Jeff Parker",
   collegeLink: null, college: "Amherst College" },
+
+  {img: "static/brad_richards.jpg", nameLink: null, name: "Brad Richards",
+    collegeLink: "http://www.ups.edu/", college: "University of Puget Sound"},  
 
   {name: "Ted Sjoerdsma", img: "static/Ted_Sjoerdsma.jpeg",
   nameLink: null, college: "Washington and Lee University",
