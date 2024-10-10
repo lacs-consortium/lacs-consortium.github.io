@@ -19,9 +19,6 @@ const members = [
   {name: "Grant Braught", nameLink: "https://www.dickinson.edu/site/custom_scripts/dc_faculty_profile_index.php?fac=braught", img: "static/grant_braught.jpg",
    college: "Dickinson College", collegeLink: "https://www.dickinson.edu/"},
 
-  {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
-  collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
-
   {name: "America Chambers", img: "static/America_Chambers.jpeg",
   nameLink: "https://www.pugetsound.edu/directory/america-chambers",
    college: "University of Puget Sound", collegeLink: "https://www.pugetsound.edu/"},
@@ -97,6 +94,9 @@ const emeriti = [
   {name: "Jim Bradley", nameLink: null, img: null,
    collegeLink: null, college: "Nazareth & Calvin Colleges"}, 
 
+  {img: "static/amy_briggs.jpg", nameLink: "http://go.middlebury.edu/briggs", name: "Amy Briggs",
+  collegeLink: "http://www.middlebury.edu/", college: "Middlebury College" },
+  
   {img: "static/kim_bruce.jpg", nameLink: "http://www.cs.pomona.edu/~kim", name: "Kim Bruce",
   collegeLink: "http://www.pomona.edu/", college: "Pomona College"},
 
