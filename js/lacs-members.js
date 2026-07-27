@@ -47,9 +47,6 @@ const members = [
   college: "Northeastern University", 
   collegeLink: "https://www.northeastern.edu/"},
 
-  {img: "static/takis_metaxas.jpeg", nameLink: "http://cs.wellesley.edu/~pmetaxas", name: "Takis Metaxas",
-  collegeLink: "http://www.wellesley.edu/", college: "Wellesley College" },
-
   {name: "Darakhshan Mir", img: "static/darakhshan_mir.webp",
   nameLink: "https://www.bucknell.edu/fac-staff/darakhshan-mir",
    college: "Bucknell University", collegeLink: "https://www.bucknell.edu/"},
@@ -121,6 +118,9 @@ const emeriti = [
   {name: "Charles Kelemen", nameLink: "https://www.cs.swarthmore.edu/~cfk/",
    img: "static/kelemen.jpeg",
    college: "Swarthmore College", collegeLink: "https://www.swarthmore.edu/"},
+
+  {img: "static/takis_metaxas.jpeg", nameLink: "http://cs.wellesley.edu/~pmetaxas", name: "Takis Metaxas",
+  collegeLink: "http://www.wellesley.edu/", college: "Wellesley College" },
 
   {img: "static/lisa_meeden.jpg", nameLink: "https://www.cs.swarthmore.edu/~meeden/", name: "Lisa Meeden", collegeLink: "http://www.swarthmore.edu/", college: "Swarthmore College"},
 
